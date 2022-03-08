@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://harsharaj6759.github.io/csb-dvdtnm/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://harsharaj6759.github.io/csb-dvdtnm/static/js/main.5d436c31.chunk.js",
+    "main.js.map": "https://harsharaj6759.github.io/csb-dvdtnm/static/js/main.5d436c31.chunk.js.map",
+    "runtime-main.js": "https://harsharaj6759.github.io/csb-dvdtnm/static/js/runtime-main.3133a0bd.js",
+    "runtime-main.js.map": "https://harsharaj6759.github.io/csb-dvdtnm/static/js/runtime-main.3133a0bd.js.map",
+    "static/js/2.5f87f494.chunk.js": "https://harsharaj6759.github.io/csb-dvdtnm/static/js/2.5f87f494.chunk.js",
+    "static/js/2.5f87f494.chunk.js.map": "https://harsharaj6759.github.io/csb-dvdtnm/static/js/2.5f87f494.chunk.js.map",
+    "index.html": "https://harsharaj6759.github.io/csb-dvdtnm/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://harsharaj6759.github.io/csb-dvdtnm/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.5f87f494.chunk.js.LICENSE.txt": "https://harsharaj6759.github.io/csb-dvdtnm/static/js/2.5f87f494.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3133a0bd.js",
+    "static/js/2.5f87f494.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.5d436c31.chunk.js"
+  ]
+}
